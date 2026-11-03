@@ -1,0 +1,21 @@
+app/page.tsx
+  s_d14480b3d60090::t_e0d0523c688c62 1-184
+package-lock.json
+  s_d14480b3d60090::t_06e619d8702337 1-6901
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cf9be3c12e2e0b5dae86b333dd86a62fe6e92b07",
+  "prompts": {},
+  "sessions": {
+    "s_d14480b3d60090": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1e20abb8-fea2-4bba-a8ac-30167668aa41",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "shanmugapiriya-2002 <shanmugapiriya@krylox.ai>"
+    }
+  }
+}
